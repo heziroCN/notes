@@ -1,7 +1,7 @@
 package haiwaitu.t20210524;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/24 22:58
  * @Description 5765. 跳跃游戏 VII(242周赛)
  */

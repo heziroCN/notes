@@ -3,7 +3,7 @@ package haiwaitu.t20210821;
 import java.util.PriorityQueue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/22 11:32
  * @Description 1046. 最后一块石头的重量
  */

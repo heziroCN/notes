@@ -3,7 +3,7 @@ package haiwaitu.t20220109;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/10 15:14
  * @Description 975. 奇偶跳
  */

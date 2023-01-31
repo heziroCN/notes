@@ -3,7 +3,7 @@ package haiwaitu.t20220402;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/04/03 22:16
  * @Description 526. 优美的排列
  */

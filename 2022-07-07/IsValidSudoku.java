@@ -1,7 +1,7 @@
 package haiwaitu.t20220707;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/07/07 17:10
  * @Description 36. 有效的数独
  */

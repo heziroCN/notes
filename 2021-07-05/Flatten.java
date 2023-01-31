@@ -5,7 +5,7 @@ import haiwaitu.Node;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/06 19:21
  * @Description 430. 扁平化多级双向链表
  */

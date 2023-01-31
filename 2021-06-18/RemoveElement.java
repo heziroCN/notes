@@ -1,7 +1,7 @@
 package haiwaitu.t20210618;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/19 12:03
  * @Description 27. 移除元素
  */

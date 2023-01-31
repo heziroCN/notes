@@ -3,7 +3,7 @@ package haiwaitu.t20210824;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/28 02:53
  * @Description 347. 前 K 个高频元素
  */

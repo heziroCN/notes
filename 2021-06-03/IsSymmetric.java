@@ -6,7 +6,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/04 14:29
  * @Description 101. 对称二叉树
  */

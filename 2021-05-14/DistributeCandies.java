@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/15 22:50
  * @Description 575. 分糖果
  */

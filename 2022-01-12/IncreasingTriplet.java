@@ -1,7 +1,7 @@
 package haiwaitu.t20220112;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/13 02:28
  * @Description 334. 递增的三元子序列
  */

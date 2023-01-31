@@ -1,7 +1,7 @@
 package haiwaitu.t20210622;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/23 15:23
  * @Description 424. 替换后的最长重复字符
  */

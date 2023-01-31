@@ -5,7 +5,7 @@ import haiwaitu.ListNode;
 import java.util.PriorityQueue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/14 22:20
  * @Description 23. 合并K个升序链表
  */

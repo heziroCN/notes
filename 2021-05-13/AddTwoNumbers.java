@@ -1,7 +1,7 @@
 package haiwaitu.t20210513;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/14 11:24
  * @Description 2. 两数相加
  */

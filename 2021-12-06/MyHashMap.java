@@ -3,7 +3,7 @@ package haiwaitu.t20211206;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/07 23:49
  * @Description 706. 设计哈希映射
  */

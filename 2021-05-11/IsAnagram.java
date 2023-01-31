@@ -3,7 +3,7 @@ package haiwaitu.t20210511;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/11 07:32
  * @Description 242. 有效的字母异位词
  */

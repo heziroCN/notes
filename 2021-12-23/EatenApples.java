@@ -3,7 +3,7 @@ package haiwaitu.t20211223;
 import java.util.PriorityQueue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/24 16:38
  * @Description 1705. 吃苹果的最大数目
  */

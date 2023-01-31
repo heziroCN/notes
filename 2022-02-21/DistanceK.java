@@ -5,7 +5,7 @@ import haiwaitu.TreeNode;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/22 18:19
  * @Description 863. 二叉树中所有距离为 K 的结点
  */

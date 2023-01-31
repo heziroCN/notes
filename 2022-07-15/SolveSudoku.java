@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/07/17 17:59
  * @Description 37. 解数独
  */

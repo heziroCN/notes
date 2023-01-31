@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/07/28 02:14
  * @Description 76. 最小覆盖子串
  */

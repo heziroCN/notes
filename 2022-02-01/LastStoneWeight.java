@@ -1,7 +1,7 @@
 package haiwaitu.t20220201;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/03 17:15
  * @Description 1049. 最后一块石头的重量 II
  */

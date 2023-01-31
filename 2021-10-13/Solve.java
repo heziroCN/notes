@@ -4,7 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/14 00:12
  * @Description 130. 被围绕的区域
  */

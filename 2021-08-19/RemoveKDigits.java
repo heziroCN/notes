@@ -4,7 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/20 00:08
  * @Description 402. 移掉 K 位数字
  */

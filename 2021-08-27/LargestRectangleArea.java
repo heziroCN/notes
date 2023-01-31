@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/27 12:09
  * @Description 84. 柱状图中最大的矩形
  */

@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/08 16:13
  * @Description 145. 二叉树的后序遍历
  */

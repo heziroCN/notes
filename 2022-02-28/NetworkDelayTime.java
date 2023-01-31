@@ -3,7 +3,7 @@ package haiwaitu.t20220228;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/01 00:49
  * @Description 743. 网络延迟时间
  */

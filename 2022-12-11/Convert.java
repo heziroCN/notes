@@ -1,7 +1,7 @@
 package haiwaitu.t20221211;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/12/11 03:32
  * @Description 6. Z 字形变换
  */

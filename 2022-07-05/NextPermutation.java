@@ -1,7 +1,7 @@
 package haiwaitu.t20220705;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/07/05 17:07
  * @Description 31. 下一个排列
  */

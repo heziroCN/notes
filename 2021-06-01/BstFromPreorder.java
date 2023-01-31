@@ -5,7 +5,7 @@ import haiwaitu.TreeNode;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/02 18:16
  * @Description 1008. 前序遍历构造二叉搜索树
  */

@@ -1,7 +1,7 @@
 package haiwaitu.t20210426;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/04/26 14:48
  * @Description 300. 最长递增子序列
  */

@@ -3,7 +3,7 @@ package haiwaitu.t20211226;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/27 16:01
  * @Description 825. 适龄的朋友
  */

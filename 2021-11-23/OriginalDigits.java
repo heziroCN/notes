@@ -1,7 +1,7 @@
 package haiwaitu.t20211123;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/24 16:28
  * @Description 423. 从英文中重建数字
  */

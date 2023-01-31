@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/09/02 22:43
  * @Description 239. 滑动窗口最大值
  */

@@ -6,7 +6,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/20 22:55
  * @Description 116. 填充每个节点的下一个右侧节点指针
  */

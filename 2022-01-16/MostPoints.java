@@ -1,7 +1,7 @@
 package haiwaitu.t20220116;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/16 20:34
  * @Description 5982. 解决智力问题
  */

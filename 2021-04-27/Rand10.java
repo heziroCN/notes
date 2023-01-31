@@ -5,7 +5,7 @@ import java.util.Random;
 import java.util.concurrent.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/04/26 16:24
  * @Description 470. 用 Rand7() 实现 Rand10()
  */

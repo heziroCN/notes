@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2023/01/03 11:13
  * @Description 52. N皇后 II
  */

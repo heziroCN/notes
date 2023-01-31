@@ -1,7 +1,7 @@
 package haiwaitu.t20211227;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/28 15:35
  * @Description 152. 乘积最大子数组
  */

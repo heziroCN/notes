@@ -1,7 +1,7 @@
 package haiwaitu.t20210501;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/01 16:40
  * @Description 153. 寻找旋转排序数组中的最小值
  */

@@ -3,7 +3,7 @@ package haiwaitu.t20220420;
 import haiwaitu.TreeNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/04/20 01:14
  * @Description 968. 监控二叉树
  */

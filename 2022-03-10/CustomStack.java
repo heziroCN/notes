@@ -1,7 +1,7 @@
 package haiwaitu.t20220310;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/10 23:39
  * @Description 1381. 设计一个支持增量操作的栈
  */

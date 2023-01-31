@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/17 17:43
  * @Description 257. 二叉树的所有路径
  */

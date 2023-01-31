@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/29 15:51
  * @Description 234. 回文链表
  */

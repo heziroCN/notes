@@ -3,7 +3,7 @@ package haiwaitu.t20220405;
 import java.util.concurrent.locks.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/04/07 15:58
  * @Description 1226. 哲学家进餐
  */

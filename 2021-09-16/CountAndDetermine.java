@@ -3,7 +3,7 @@ package haiwaitu.t20210916;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/09/16 14:22
  * @Description 位运算-计算/判断
  */

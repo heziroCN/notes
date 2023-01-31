@@ -1,7 +1,7 @@
 package haiwaitu.t20220118;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/19 15:09
  * @Description 684. 冗余连接
  */

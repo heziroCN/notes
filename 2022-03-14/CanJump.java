@@ -1,7 +1,7 @@
 package haiwaitu.t20220314;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/14 17:00
  * @Description 55. 跳跃游戏
  */

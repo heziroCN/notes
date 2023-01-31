@@ -1,7 +1,7 @@
 package haiwaitu.t20211217;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/18 23:10
  * @Description 1007. 行相等的最少多米诺旋转
  */

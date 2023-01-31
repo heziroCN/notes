@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/04 21:20
  * @Description 953. 验证外星语词典
  */

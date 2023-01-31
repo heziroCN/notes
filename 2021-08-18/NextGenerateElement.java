@@ -3,7 +3,7 @@ package haiwaitu.t20210818;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/19 12:03
  * @Description 496. 下一个更大元素 I
  */

@@ -3,7 +3,7 @@ package haiwaitu.t20211221;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/21 15:30
  * @Description 359. 日志速率限制器
  */

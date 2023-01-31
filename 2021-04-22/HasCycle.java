@@ -1,7 +1,7 @@
 package haiwaitu.t20210422;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/04/22 15:34
  * @Description 141. 环形链表
  */

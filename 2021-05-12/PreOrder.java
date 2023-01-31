@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/13 09:20
  * @Description 589. N 叉树的前序遍历
  */

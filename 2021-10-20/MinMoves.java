@@ -1,7 +1,7 @@
 package haiwaitu.t20211020;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/20 13:50
  * @Description 453. 最小操作次数使数组元素相等
  */

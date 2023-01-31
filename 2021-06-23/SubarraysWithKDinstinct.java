@@ -1,7 +1,7 @@
 package haiwaitu.t20210623;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/24 16:21
  * @Description 992. K 个不同整数的子数组
  */

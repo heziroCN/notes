@@ -1,7 +1,7 @@
 package haiwaitu.t20220328;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/28 16:07
  * @Description 287. 寻找重复数
  */

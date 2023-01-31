@@ -1,7 +1,7 @@
 package haiwaitu.t20211219;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/19 12:34
  * @Description 5956. 找出数组中的第一个回文字符串
  */

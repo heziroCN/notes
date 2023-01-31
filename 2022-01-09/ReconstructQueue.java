@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/10 22:13
  * @Description 406. 根据身高重建队列
  */

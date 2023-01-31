@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/23 17:27
  * @Description 297. 二叉树的序列化与反序列化
  */

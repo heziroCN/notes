@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/18 23:58
  * @Description 662. 二叉树最大宽度
  */

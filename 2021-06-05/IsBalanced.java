@@ -3,7 +3,7 @@ package haiwaitu.t20210605;
 import haiwaitu.TreeNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/06 15:46
  * @Description 110. 平衡二叉树
  */

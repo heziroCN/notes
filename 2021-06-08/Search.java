@@ -1,7 +1,7 @@
 package haiwaitu.t20210608;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/10 04:39
  * @Description 704. 二分查找
  */

@@ -3,7 +3,7 @@ package haiwaitu.t20210531;
 import haiwaitu.TreeNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/01 14:37
  * @Description 114. 二叉树展开为链表
  */

@@ -1,7 +1,7 @@
 package haiwaitu.t20220201;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/03 17:16
  * @Description 416. 分割等和子集
  */

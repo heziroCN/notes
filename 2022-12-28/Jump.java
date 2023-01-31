@@ -3,7 +3,7 @@ package haiwaitu.t20221228;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/12/28 22:31
  * @Description 45. 跳跃游戏 II
  */

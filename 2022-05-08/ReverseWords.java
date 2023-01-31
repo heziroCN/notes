@@ -4,7 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/05/09 09:46
  * @Description 151. 颠倒字符串中的单词
  */

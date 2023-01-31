@@ -1,7 +1,7 @@
 package haiwaitu.t20211111;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/11 16:16
  * @Description 392. 判断子序列
  */

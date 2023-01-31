@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/17 11:02
  * @Description 409. 最长回文串
  */

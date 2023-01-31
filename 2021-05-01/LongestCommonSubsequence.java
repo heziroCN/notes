@@ -1,7 +1,7 @@
 package haiwaitu.t20210501;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/01 21:58
  * @Description 1143. 最长公共子序列
  */

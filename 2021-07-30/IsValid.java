@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/31 19:15
  * @Description 20. 有效的括号
  */

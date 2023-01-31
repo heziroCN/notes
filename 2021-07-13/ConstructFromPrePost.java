@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/14 16:53
  * @Description 889. 根据前序和后序遍历构造二叉树
  */

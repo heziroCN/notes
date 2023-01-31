@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/10 23:45
  * @Description 503. 下一个更大元素 II
  */

@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/28 21:05
  * @Description 46. 全排列
  */

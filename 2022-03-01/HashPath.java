@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/02 12:02
  * @Description 490. 迷宫
  */

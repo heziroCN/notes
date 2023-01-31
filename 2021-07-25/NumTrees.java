@@ -1,7 +1,7 @@
 package haiwaitu.t20210725;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/26 17:28
  * @Description 96. 不同的二叉搜索树
  */

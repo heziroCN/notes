@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/05/09 08:55
  * @Description 8. 字符串转换整数 (atoi)
  */

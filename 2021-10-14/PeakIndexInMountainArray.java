@@ -1,7 +1,7 @@
 package haiwaitu.t20211014;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/15 01:24
  * @Description 剑指 Offer II 069. 山峰数组的顶部
  */

@@ -1,7 +1,7 @@
 package haiwaitu.t20210610;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/11 02:06
  * @Description 167. 两数之和 II - 输入有序数组
  */

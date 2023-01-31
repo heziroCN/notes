@@ -4,7 +4,7 @@ import haiwaitu.ListNode;
 import haiwaitu.TreeNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/05 17:13
  * @Description 109. 有序链表转换二叉搜索树
  */

@@ -3,7 +3,7 @@ package haiwaitu.t20210604;
 import haiwaitu.TreeNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/05 17:06
  * @Description 543. 二叉树的直径
  */

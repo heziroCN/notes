@@ -1,7 +1,7 @@
 package haiwaitu.t20210522;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/23 22:52
  * @Description 5763. 哪种连续子字符串更长(242周赛)
  */

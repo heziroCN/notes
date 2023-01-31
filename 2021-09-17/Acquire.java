@@ -1,7 +1,7 @@
 package haiwaitu.t20210917;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/09/17 20:44
  * @Description 位运算-获取
  */

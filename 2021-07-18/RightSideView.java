@@ -5,7 +5,7 @@ import haiwaitu.TreeNode;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/19 22:29
  * @Description 199. 二叉树的右视图
  */

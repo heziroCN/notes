@@ -1,7 +1,7 @@
 package haiwaitu.t20210925;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/09/25 00:50
  * @Description 剑指 Offer 42. 连续子数组的最大和
  */

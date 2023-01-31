@@ -1,7 +1,7 @@
 package haiwaitu.t20210503;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/03 22:03
  * @Description 125. 验证回文串
  */

@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/18 23:30
  * @Description 373. 查找和最小的K对数字
  */

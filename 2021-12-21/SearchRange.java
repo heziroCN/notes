@@ -1,7 +1,7 @@
 package haiwaitu.t20211221;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/21 15:22
  * @Description 34. 在排序数组中查找元素的第一个和最后一个位置
  */

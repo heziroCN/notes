@@ -1,7 +1,7 @@
 package haiwaitu.t20210614;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/15 09:29
  * @Description 50. Pow(x, n)
  */

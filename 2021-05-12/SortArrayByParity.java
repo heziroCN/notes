@@ -1,7 +1,7 @@
 package haiwaitu.t20210512;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/13 10:51
  * @Description 905. 按奇偶排序数组
  */

@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/22 22:57
  * @Description 384. 打乱数组
  */

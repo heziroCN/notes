@@ -1,7 +1,7 @@
 package haiwaitu.t20220120;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/20 16:31
  * @Description 880. 索引处的解码字符串
  */

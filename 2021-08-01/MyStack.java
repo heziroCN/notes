@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/02 00:10
  * @Description 225. 用队列实现栈
  */

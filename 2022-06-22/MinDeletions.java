@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 import java.util.Set;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/06/22 16:41
  * @Description 1647. 字符频次唯一的最小删除次数
  */

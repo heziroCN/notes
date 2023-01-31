@@ -1,7 +1,7 @@
 package haiwaitu.t20210520;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/20 14:15
  * @Description 69. x 的平方根
  */

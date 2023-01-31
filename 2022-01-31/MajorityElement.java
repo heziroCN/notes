@@ -3,7 +3,7 @@ package haiwaitu.t20220131;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/01 18:49
  * @Description 229. 求众数 II
  */

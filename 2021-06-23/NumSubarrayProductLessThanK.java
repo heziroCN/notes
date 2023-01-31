@@ -1,7 +1,7 @@
 package haiwaitu.t20210623;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/24 16:58
  * @Description 713. 乘积小于K的子数组
  */

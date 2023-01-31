@@ -1,7 +1,7 @@
 package haiwaitu.t20220512;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/05/12 13:51
  * @Description 1822. 数组元素积的符号
  */

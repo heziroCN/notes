@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/15 08:43
  * @Description 718. 最长重复子数组
  */

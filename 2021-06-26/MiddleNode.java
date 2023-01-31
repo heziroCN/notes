@@ -3,7 +3,7 @@ package haiwaitu.t20210626;
 import haiwaitu.ListNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/27 12:26
  * @Description 876. 链表的中间结点
  */

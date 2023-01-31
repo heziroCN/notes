@@ -3,7 +3,7 @@ package haiwaitu.t20210510;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/10 03:09
  * @Description  48. 旋转图像
  */

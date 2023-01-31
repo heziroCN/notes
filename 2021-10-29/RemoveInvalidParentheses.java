@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/30 00:53
  * @Description 301. 删除无效的括号
  */

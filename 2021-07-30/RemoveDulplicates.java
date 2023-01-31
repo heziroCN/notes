@@ -1,7 +1,7 @@
 package haiwaitu.t20210730;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/31 22:36
  * @Description 1047. 删除字符串中的所有相邻重复项
  */

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/17 16:05
  * @Description 253. 会议室 II
  */

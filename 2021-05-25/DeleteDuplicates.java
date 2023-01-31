@@ -2,7 +2,7 @@ package haiwaitu.t20210525;
 import haiwaitu.ListNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/25 15:26
  * @Description 83. 删除排序链表中的重复元素
  */

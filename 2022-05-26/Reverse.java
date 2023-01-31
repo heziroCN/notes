@@ -1,7 +1,7 @@
 package haiwaitu.t20220526;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/05/26 16:11
  * @Description 7. 整数反转
  */

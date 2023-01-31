@@ -1,7 +1,7 @@
 package haiwaitu.t20220315;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/15 18:57
  * @Description 740. 删除并获得点数
  */

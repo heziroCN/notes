@@ -1,7 +1,7 @@
 package haiwaitu.t20211027;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/28 16:11
  * @Description 4. 寻找两个正序数组的中位数
  */

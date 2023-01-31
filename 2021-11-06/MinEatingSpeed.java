@@ -1,7 +1,7 @@
 package haiwaitu.t20211106;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/07 05:52
  * @Description 875. 爱吃香蕉的珂珂
  */

@@ -1,7 +1,7 @@
 package haiwaitu.t20220316;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/16 18:39
  * @Description 647. 回文子串
  */

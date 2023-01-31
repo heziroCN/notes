@@ -3,7 +3,7 @@ package haiwaitu.t20210624;
 import haiwaitu.ListNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/25 15:05
  * @Description 92. 反转链表 II
  */

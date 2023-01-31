@@ -3,7 +3,7 @@ package haiwaitu.t20211220;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/20 16:52
  * @Description 475. 供暖器
  */

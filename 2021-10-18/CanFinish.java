@@ -3,7 +3,7 @@ package haiwaitu.t20211018;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/19 02:23
  * @Description 207. 课程表
  */

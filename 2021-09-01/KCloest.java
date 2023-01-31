@@ -6,7 +6,7 @@ import java.util.PriorityQueue;
 import java.util.Random;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/09/01 13:15
  * @Description 973. 最接近原点的 K 个点
  */

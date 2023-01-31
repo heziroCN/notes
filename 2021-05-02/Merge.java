@@ -1,7 +1,7 @@
 package haiwaitu.t20210502;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/02 21:14
  * @Description 88. 合并两个有序数组
  */

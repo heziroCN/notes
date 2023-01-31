@@ -5,7 +5,7 @@ import haiwaitu.ListNode;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/27 11:02
  * @Description 143. 重排链表
  */

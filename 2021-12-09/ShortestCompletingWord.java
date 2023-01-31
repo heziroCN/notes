@@ -1,7 +1,7 @@
 package haiwaitu.t20211209;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/12 18:30
  * @Description 748. 最短补全词
  */

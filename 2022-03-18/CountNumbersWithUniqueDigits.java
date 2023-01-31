@@ -1,7 +1,7 @@
 package haiwaitu.t20220318;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/19 15:00
  * @Description 357. 计算各个位数不同的数字个数
  */

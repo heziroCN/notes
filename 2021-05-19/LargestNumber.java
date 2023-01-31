@@ -3,7 +3,7 @@ package haiwaitu.t20210519;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/19 15:52
  * @Description 179. 最大数
  */

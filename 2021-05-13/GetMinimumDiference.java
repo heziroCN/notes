@@ -2,7 +2,7 @@ package haiwaitu.t20210513;
 
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/14 11:01
  * @Description 530. 二叉搜索树的最小绝对差
  */

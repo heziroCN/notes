@@ -1,7 +1,7 @@
 package haiwaitu.t20221005;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/10/05 21:24
  * @Description 151. 反转字符串中的单词
  */

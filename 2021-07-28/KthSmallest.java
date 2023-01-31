@@ -5,7 +5,7 @@ import haiwaitu.TreeNode;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/07/29 03:52
  * @Description 230. 二叉搜索树中第K小的元素
  */

@@ -1,7 +1,7 @@
 package haiwaitu.t20211017;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/18 22:39
  * @Description 476. 数字的补数
  */

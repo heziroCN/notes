@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/08/03 17:18
  * @Description 235. 二叉搜索树的最近公共祖先
  */

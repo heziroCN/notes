@@ -1,7 +1,7 @@
 package haiwaitu.t20211108;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/09 10:19
  * @Description 299. 猜数字游戏
  */

@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/04/03 22:17
  * @Description 847. 访问所有节点的最短路径
  */

@@ -1,7 +1,7 @@
 package haiwaitu.t20220313;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/13 22:50
  * @Description 1760. 袋子里最少数目的球
  */

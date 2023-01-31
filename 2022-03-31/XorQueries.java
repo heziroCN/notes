@@ -1,7 +1,7 @@
 package haiwaitu.t20220331;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/31 23:54
  * @Description 1310. 子数组异或查询
  */

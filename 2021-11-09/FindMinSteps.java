@@ -3,7 +3,7 @@ package haiwaitu.t20211109;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/09 12:10
  * @Description 488. 祖玛游戏
  */

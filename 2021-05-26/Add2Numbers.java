@@ -5,7 +5,7 @@ import haiwaitu.ListNode;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/25 16:21
  * @Description 445. 两数相加 II
  */

@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/16 22:24
  * @Description 387. 字符串中的第一个唯一字符
  */

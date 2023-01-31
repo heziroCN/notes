@@ -1,7 +1,7 @@
 package haiwaitu.t20210430;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/04/30 15:04
  * @Description 剑指 Offer 10- II. 青蛙跳台阶问题
  */

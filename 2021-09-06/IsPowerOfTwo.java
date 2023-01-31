@@ -1,7 +1,7 @@
 package haiwaitu.t20210906;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/09/06 14:01
  * @Description 231. 2 的幂
  */

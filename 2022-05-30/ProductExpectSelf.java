@@ -1,7 +1,7 @@
 package haiwaitu.t20220530;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/05/30 17:53
  * @Description 238. 除自身以外数组的乘积
  */

@@ -1,7 +1,7 @@
 package haiwaitu.t20220302;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/02 23:00
  * @Description 1791. 找出星型图的中心节点
  */

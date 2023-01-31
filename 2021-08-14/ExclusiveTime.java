@@ -3,7 +3,7 @@ package haiwaitu.t20210814;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/15 23:56
  * @Description 636. 函数的独占时间
  */

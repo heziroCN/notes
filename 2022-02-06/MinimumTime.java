@@ -1,7 +1,7 @@
 package haiwaitu.t20220206;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/06 21:37
  * @Description 6003. 移除所有载有违禁货物车厢所需的最少时间
  */

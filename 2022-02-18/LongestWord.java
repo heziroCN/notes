@@ -3,7 +3,7 @@ package haiwaitu.t20220218;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/19 11:02
  * @Description 720. 词典中最长的单词
  */

@@ -1,7 +1,7 @@
 package haiwaitu.t20210518;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/18 21:43
  * @Description 189. 旋转数组
  */

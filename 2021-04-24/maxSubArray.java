@@ -1,7 +1,7 @@
 package haiwaitu.t20210424;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/04/24 16:32
  * @Description 53. 最大子序和
  */

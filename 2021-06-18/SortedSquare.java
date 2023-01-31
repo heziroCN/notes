@@ -3,7 +3,7 @@ package haiwaitu.t20210618;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/19 11:43
  * @Description 977. 有序数组的平方
  */

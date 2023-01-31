@@ -3,7 +3,7 @@ package haiwaitu.t20211118;
 import haiwaitu.TreeNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/19 00:25
  * @Description 563. 二叉树的坡度
  */

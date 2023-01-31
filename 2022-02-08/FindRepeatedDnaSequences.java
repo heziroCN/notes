@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/09 00:12
  * @Description 187. 重复的DNA序列
  */

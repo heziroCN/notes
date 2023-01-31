@@ -3,7 +3,7 @@ package haiwaitu.t20210609;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/09 05:45
  * @Description 349. 两个数组的交集
  */

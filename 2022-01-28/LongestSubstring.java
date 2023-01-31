@@ -1,7 +1,7 @@
 package haiwaitu.t20220128;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/28 23:26
  * @Description 395. 至少有 K 个重复字符的最长子串
  */

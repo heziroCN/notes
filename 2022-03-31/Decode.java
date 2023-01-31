@@ -1,7 +1,7 @@
 package haiwaitu.t20220331;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/04/01 00:31
  * @Description 1734. 解码异或后的排列
  */

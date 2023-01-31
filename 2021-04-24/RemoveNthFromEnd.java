@@ -3,7 +3,7 @@ package haiwaitu.t20210424;
 import haiwaitu.ListNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/04/24 17:05
  * @Description 19. 删除链表的倒数第 N 个结点
  */

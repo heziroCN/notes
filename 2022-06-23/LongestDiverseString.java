@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/06/24 12:02
  * @Description 1405. 最长快乐字符串
  */

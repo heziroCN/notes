@@ -3,7 +3,7 @@ package haiwaitu.t20220218;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/02/19 15:34
  * @Description 588. 设计内存文件系统
  */

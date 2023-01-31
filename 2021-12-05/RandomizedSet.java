@@ -3,7 +3,7 @@ package haiwaitu.t20211205;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/06 22:11
  * @Description 380. O(1) 时间插入、删除和获取随机元素
  */

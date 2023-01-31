@@ -1,7 +1,7 @@
 package haiwaitu.t20221130;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/11/30 22:11
  * @Description 273. 整数转换英文表示
  */

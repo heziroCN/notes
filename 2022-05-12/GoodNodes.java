@@ -3,7 +3,7 @@ package haiwaitu.t20220512;
 import haiwaitu.TreeNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/05/12 21:30
  * @Description 1448. 统计二叉树中好节点的数目
  */

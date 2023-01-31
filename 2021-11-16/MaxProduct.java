@@ -1,7 +1,7 @@
 package haiwaitu.t20211116;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/17 22:53
  * @Description 318. 最大单词长度乘积
  */

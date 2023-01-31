@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Set;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/14 17:19
  * @Description 1249. 移除无效的括号
  */

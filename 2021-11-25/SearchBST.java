@@ -3,7 +3,7 @@ package haiwaitu.t20211126;
 import haiwaitu.TreeNode;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/26 23:13
  * @Description 700. 二叉搜索树中的搜索
  */

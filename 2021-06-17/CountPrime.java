@@ -3,7 +3,7 @@ package haiwaitu.t20210617;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/06/18 11:52
  * @Description 204. 计数质数
  */

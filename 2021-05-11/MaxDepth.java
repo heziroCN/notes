@@ -5,7 +5,7 @@ import javafx.util.Pair;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/11 14:45
  * @Description 559. N 叉树的最大深度
  */

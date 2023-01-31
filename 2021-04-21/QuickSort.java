@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Random;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/04/21 15:46
  * @Description 使用递归及非递归两种方式实现快速排序
  */

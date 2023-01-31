@@ -1,7 +1,7 @@
 package haiwaitu.t20220605;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/06/05 18:18
  * @Description 348. 设计井字棋
  */

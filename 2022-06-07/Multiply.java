@@ -1,7 +1,7 @@
 package haiwaitu.t20220607;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/06/08 00:49
  * @Description 43. 字符串相乘
  */

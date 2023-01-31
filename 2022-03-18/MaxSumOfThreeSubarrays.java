@@ -1,7 +1,7 @@
 package haiwaitu.t20220318;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/19 15:00
  * @Description 689. 三个无重叠子数组的最大和
  */

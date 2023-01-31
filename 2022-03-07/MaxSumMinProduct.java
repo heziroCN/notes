@@ -5,7 +5,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/07 22:44
  * @Description 1856. 子数组最小乘积的最大值
  */

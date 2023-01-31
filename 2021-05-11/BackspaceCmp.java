@@ -1,7 +1,7 @@
 package haiwaitu.t20210511;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/11 08:06
  * @Description 844. 比较含退格的字符串
  */

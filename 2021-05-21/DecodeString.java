@@ -3,7 +3,7 @@ package haiwaitu.t20210521;
 import java.util.LinkedList;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/21 18:14
  * @Description 394. 字符串解码
  */

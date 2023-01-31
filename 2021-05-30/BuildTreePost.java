@@ -5,7 +5,7 @@ import haiwaitu.TreeNode;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/30 17:26
  * @Description 106. 从中序与后序遍历序列构造二叉树
  */

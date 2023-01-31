@@ -3,7 +3,7 @@ package haiwaitu.t20220121;
 import java.util.Random;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/20 16:05
  * @Description 912. 排序数组
  */

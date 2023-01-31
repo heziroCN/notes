@@ -3,7 +3,7 @@ package haiwaitu.t20211030;
 import java.util.Arrays;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/30 17:09
  * @Description 869. 重新排序得到 2 的幂
  */

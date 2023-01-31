@@ -7,7 +7,7 @@ import java.util.*;
 /**
  * 类似题目：173. 二叉搜索树迭代器，同样是实现迭代器的三个方法
  *
- * @Author huangjunqiao
+ * @Author heziro
  * @Description 341. 扁平化嵌套列表迭代器
  */
 public class NestedIterator implements Iterator<Integer> {

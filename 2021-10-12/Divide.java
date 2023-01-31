@@ -1,7 +1,7 @@
 package haiwaitu.t20211012;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/12 20:17
  * @Description 29. 两数相除
  */

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/07 23:50
  * @Description 1034. 边界着色
  */

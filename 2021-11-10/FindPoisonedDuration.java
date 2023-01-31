@@ -1,7 +1,7 @@
 package haiwaitu.t20211110;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/10 16:12
  * @Description 495. 提莫攻击
  */

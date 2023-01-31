@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/04/22 16:00
  * @Description 146. LRU 缓存机制
  * 做的过程出现了忘记更新hashMap元素，和淘汰的时候remove错元素 两个错误

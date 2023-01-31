@@ -1,7 +1,7 @@
 package haiwaitu.t20211106;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/07 06:56
  * @Description 1664. 生成平衡数组的方案数
  */

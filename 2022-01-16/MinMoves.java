@@ -1,7 +1,7 @@
 package haiwaitu.t20220116;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/16 20:34
  * @Description 5194. 得到目标值的最少行动次数
  */

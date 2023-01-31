@@ -1,7 +1,7 @@
 package haiwaitu.t20211219;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/12/19 12:35
  * @Description 5958. 股票平滑下跌阶段的数目
  */

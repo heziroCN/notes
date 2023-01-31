@@ -1,7 +1,7 @@
 package haiwaitu.t20210906;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/09/06 13:04
  * @Description 190. 颠倒二进制位
  */

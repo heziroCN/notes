@@ -3,7 +3,7 @@ package haiwaitu.t20210817;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/08/18 19:52
  * @Description 726. 原子的数量
  */

@@ -3,7 +3,7 @@ package haiwaitu.t20220406;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/04/07 16:02
  * @Description 398. 随机数索引
  */

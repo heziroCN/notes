@@ -1,7 +1,7 @@
 package haiwaitu.t20210512;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/12 15:33
  * @Description 852. 山脉数组的峰顶索引
  */

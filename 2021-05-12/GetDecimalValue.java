@@ -3,7 +3,7 @@ package haiwaitu.t20210512;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/13 10:50
  * @Description 1290. 二进制链表转整数
  */

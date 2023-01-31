@@ -1,7 +1,7 @@
 package haiwaitu.t20211023;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/10/24 19:48
  * @Description 695. 岛屿的最大面积
  */

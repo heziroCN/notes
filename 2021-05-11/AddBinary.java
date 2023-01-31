@@ -1,7 +1,7 @@
 package haiwaitu.t20210511;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/05/11 17:49
  * @Description 67. 二进制求和
  */

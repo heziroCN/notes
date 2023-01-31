@@ -3,7 +3,7 @@ package haiwaitu.t20230102;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2023/01/02 16:42
  * @Description 51. N 皇后
  */

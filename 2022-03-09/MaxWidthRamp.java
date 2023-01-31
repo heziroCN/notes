@@ -3,7 +3,7 @@ package haiwaitu.t20220309;
 import java.util.*;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/03/09 17:46
  * @Description 962. 最大宽度坡
  */

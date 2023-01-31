@@ -1,7 +1,7 @@
 package haiwaitu.t20220126;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/01/26 17:00
  * @Description 664. 奇怪的打印机
  */

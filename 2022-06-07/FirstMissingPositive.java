@@ -1,7 +1,7 @@
 package haiwaitu.t20220607;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/06/07 22:34
  * @Description 41. 缺失的第一个正数
  */

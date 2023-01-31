@@ -1,7 +1,7 @@
 package haiwaitu.t20220605;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2022/06/05 18:17
  * @Description 277. 搜寻名人
  */

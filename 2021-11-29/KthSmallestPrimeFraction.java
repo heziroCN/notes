@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /**
- * @Author huangjunqiao
+ * @Author heziro
  * @Date 2021/11/30 01:56
  * @Description 786. 第 K 个最小的素数分数
  */
