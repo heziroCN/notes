@@ -1,6 +1,6 @@
-package haiwaitu.t20210423;
+package zlt20210423;
 
-import haiwaitu.t20210422.HasCycle;
+import zlt20210422.HasCycle;
 
 /**
  * @Author heziro

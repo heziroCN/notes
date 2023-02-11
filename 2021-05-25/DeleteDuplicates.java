@@ -1,5 +1,5 @@
-package haiwaitu.t20210525;
-import haiwaitu.ListNode;
+package zlt20210525;
+import zlListNode;
 
 /**
  * @Author heziro

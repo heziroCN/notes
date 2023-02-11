@@ -1,6 +1,6 @@
-package haiwaitu.t20210525;
+package zlt20210525;
 
-import haiwaitu.ListNode;
+import zlListNode;
 
 import java.util.LinkedList;
 

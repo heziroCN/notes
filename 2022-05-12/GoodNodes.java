@@ -1,6 +1,6 @@
-package haiwaitu.t20220512;
+package zlt20220512;
 
-import haiwaitu.TreeNode;
+import zlTreeNode;
 
 /**
  * @Author heziro

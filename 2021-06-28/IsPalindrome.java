@@ -1,6 +1,6 @@
-package haiwaitu.t20210628;
+package zlt20210628;
 
-import haiwaitu.ListNode;
+import zlListNode;
 
 import java.util.ArrayList;
 import java.util.List;
